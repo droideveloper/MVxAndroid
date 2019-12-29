@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':mvx-core'
 rootProject.name='Sample Application'
